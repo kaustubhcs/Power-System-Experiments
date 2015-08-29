@@ -1,3 +1,5 @@
+%% Experiment to Determine and Plot MOTOR TRANSFER FUNCTION
+
 J = 0.01;
 b = 0.1;
 K = 0.01;
