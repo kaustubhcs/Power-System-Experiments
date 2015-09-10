@@ -1,4 +1,4 @@
-%% Fault Analysis
+%% Fault Analysis of Generator power transmission
 % Aim: A double line to ground fault occurs on the terminals of generator
 % deterine the line current, fault current and line to neutral voltages
 % under the fault conditions.
