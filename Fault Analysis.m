@@ -6,7 +6,7 @@
 % z1 = j0.2
 % z2 = j0.2
 % zn = 0
-% 
+
 
 %%
 % 
@@ -20,7 +20,7 @@
 clear all;
 clc
 
-%% Load Inputs
+%% Loading Inputs
 % Mode is used simply for the purposes for publishing
 % * 1 = Runtime Analysis
 % * 2 = Preset Input data
